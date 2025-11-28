@@ -19,7 +19,7 @@ export default function Footer() {
         variant="body2" 
         color="text.secondary" 
       >
-        © {new Date().getFullYear()} Your Name — OpenSesame Creative Project
+        © {new Date().getFullYear()} Jash Kotadiya — OpenSesame Creative Project
       </Typography>
     </Box>
   );
