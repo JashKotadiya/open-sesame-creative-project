@@ -12,7 +12,7 @@ export default function FutureAI() {
           gutterBottom
           sx={{ color: theme.palette.text.primary }} 
         >
-          My Career Journey & OpenSesame
+         AI and the Future of Learning
         </Typography>
       </Box>
 
@@ -32,23 +32,34 @@ export default function FutureAI() {
             color: theme.palette.text.primary 
           }}
         >
-          **Introduction:**
-          My journey into AI began during my studies in [Your Field], where I realized the transformative potential of machine learning. The **OpenSesame Project** serves as a culmination of skills I've developed in [List 1-2 key skills, e.g., **Python**, **Data Analysis**, **React**].
-          
-          ---
-          
-          **Key Milestones:**
-          
-          * **Phase 1: Foundational Skills** – Completed projects focusing on [mention a foundational concept, e.g., data visualization and cleaning].
-          * **Phase 2: Advanced Development** – Focused on building scalable, user-facing applications, demonstrated by this website's [mention a feature, e.g., responsive design and component architecture].
-          * **Phase 3: OpenSesame** – This project specifically showcases my ability to [mention key skill, e.g., **integrate a full MUI theme**, **handle routing**, and **present complex information clearly**].
-          
-          ---
-          
-          **Alignment with Career Goals:**
-          
-          I am eager to contribute to [Company Name] because [mention 1-2 specific company goals]. My experience with modern frameworks and commitment to clean code, exemplified in this demo, aligns perfectly with the standards required for this internship.
-          
+         <b>What excites you most about working with AI, and how do you think it can shape the future of learning and work?
+         </b> <br/>
+
+         <br/>What excites me about working with AI is its ability to personalize learning and 
+         problem solving at a scale that has never been possible before. 
+         AI systems are able to adapt to each individual's skill level, background knowledge and 
+         learning style, meaning that instead of forcing every learner to go through the same path, 
+         AI can meet people exactly where they need help and grow them in a way that feels intuitive and 
+         efficient for them. <br/>
+
+         <br/> I have already seen an example of this while building my own small RAG system using Cohere’s 
+         embedding and generation models. Even with my simple setup, users were able to upload their notes, 
+         and instantly get customized explanations from their own material. 
+         This shows how powerful AI can be when it is used to make information more easy to understand, 
+         more accessible, and more relevant. 
+
+         <br/>This is exactly why I am excited about OpenSesame, as their focus on improving the way organizations 
+         train employees aligns perfectly with how I see AI transforming the future of work. 
+         AI can help employees learn faster, fill skill gaps more effectively, 
+         stay up to date in rapidly changing industries, and ultimately feel more 
+         confident in their abilities. Therefore, I believe 
+         AI has the potential to not only deliver better learning content but to also 
+         help people discover what skills they need, how they learn the best, and how to continually improve. <br/>
+
+        <br/> Hence, working with AI in a place like OpenSesame, where education, accessibility, 
+        and real workplace impact come together, is exciting as it means contributing to technology that can 
+        genuinely improve people’s opportunities, careers and day to day work and I want to help build tools 
+        that make learning more personalized, engaging, and available to everyone. 
         </Typography>
       </Paper>
     </Container>

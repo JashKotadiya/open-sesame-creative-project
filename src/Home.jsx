@@ -19,11 +19,11 @@ export default function Home() {
     >
       <Box sx={{ maxWidth: 'md', width: '100%', pt: 6, pb: 6 }}>
         <Typography variant="h3" sx={{ fontWeight: "bold", mb: 3, color: 'text.primary' }}>
-          Welcome to My Website
+         OpenSesame Creative Project
         </Typography>
 
         <Typography variant="h6" sx={{ mb: 6, color: 'text.secondary' }}>
-          Explore my journey in AI, the impact of technology, and my views on the future.
+          Introducing Jash Kotadiya and Answering your Core Internship Questions
         </Typography>
 
         {/* Grid container defines the table, enables flexbox rules, and allows for its children to wrap into rows, and automatically applies spacing -> A 12 column system */}

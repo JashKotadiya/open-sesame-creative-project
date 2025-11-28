@@ -9,7 +9,7 @@ export default function Navbar() {
     <AppBar position="static" sx = {{backgroundColor: "#1E1E1E"}}>
       <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
         <Typography variant="h6" sx={{ fontWeight: "bold" }}>
-          OpenSesame Project
+          OpenSesame Creative Project
         </Typography>
 
         <div>
