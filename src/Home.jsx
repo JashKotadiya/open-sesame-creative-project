@@ -52,7 +52,7 @@ export default function Home() {
                 <CardContent>
                   <Typography variant="h5" sx={{ mb: 1, fontWeight: 'bold' }}>My Journey</Typography>
                   <Typography variant="body2" sx={{ opacity: 0.9 }}>
-                    Learn how I got into AI and the path I followed.
+                    How OpenSesame fits into my career journey.
                   </Typography>
                 </CardContent>
               </CardActionArea>
@@ -78,7 +78,7 @@ export default function Home() {
                 <CardContent>
                   <Typography variant="h5" sx={{ mb: 1, fontWeight: 'bold' }}>Impact</Typography>
                   <Typography variant="body2" sx={{ opacity: 0.9 }}>
-                    How AI affects our world and why it matters.
+                    What I bring to OpenSesame.
                   </Typography>
                 </CardContent>
               </CardActionArea>
@@ -102,9 +102,9 @@ export default function Home() {
             >
               <CardActionArea component={Link} to="/future-ai">
                 <CardContent>
-                  <Typography variant="h5" sx={{ mb: 1, fontWeight: 'bold' }}>Future of AI</Typography>
+                  <Typography variant="h5" sx={{ mb: 1, fontWeight: 'bold' }}>AI, Learning and the Future</Typography>
                   <Typography variant="body2" sx={{ opacity: 0.9 }}>
-                    My thoughts on AI’s future and where it's headed.
+                    What excites me about AI & the future of learning.
                   </Typography>
                 </CardContent>
               </CardActionArea>
