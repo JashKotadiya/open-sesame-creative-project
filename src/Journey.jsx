@@ -12,7 +12,7 @@ export default function Journey() {
           gutterBottom
           sx={{ color: theme.palette.text.primary }} 
         >
-          My Career Journey & OpenSesame
+          How do you see OpenSesame fitting into your career journey or long-term goals?
         </Typography>
       </Box>
 
